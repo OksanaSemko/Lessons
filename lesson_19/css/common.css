@@ -1,0 +1,37 @@
+
+.box-title {
+   max-width: 517px;
+   padding: 5px;
+}
+
+.box-title__sub-title {
+   font-weight: 600;
+   font-size: 18px;
+   line-height: 1.33;
+   text-align: center;
+   color: #3056D3;
+   margin-bottom: 8px;
+}
+.box-title__sub-title:hover {
+   text-decoration: underline;
+}
+.box-title__link {
+
+}
+.box-title__title {
+   font-weight: 700;
+   font-size: 40px;
+   line-height: 1.12;
+   text-align: center;
+   text-transform: capitalize;
+   color: #212B36;
+   margin-bottom: 15px;
+   transition: all 0.4s;
+}
+.box-title__title:hover {
+   color: #3056D3;
+   cursor: pointer;
+}
+.box-title__text {
+   text-align: center;
+}
