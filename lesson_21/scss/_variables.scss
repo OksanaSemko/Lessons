@@ -1,0 +1,37 @@
+
+$lightblackColor: #212529;
+$beigColor: #E5E5E5;
+$osvaltColor: #495057;
+$lightosvaltColor: #49505780;
+$lightColor: #F8F9FA;
+$greyColor: #f8f9fa99;
+$peachColor:#ddbea9;
+$whiteColor:#fff;
+$bgColor: #212529;
+$bgTransColor: #2125297e;
+$bggreyColor: #33393f;
+$footerColor: #f8f9fa80;
+
+// -----------------------------------------------
+
+%poppins-300 {
+    font-family: 'Poppins';
+    font-weight: 300;
+    font-size: rem(12);
+    line-height: 1.67;
+    color: $osvaltColor;
+}
+%poppins-500 {
+    font-weight: 500;
+    font-size: rem(12);
+    line-height: 2.08;
+}
+%poppins-700 {
+    font-weight: 700;
+    font-size: rem(25);
+    line-height: 1.6;
+}
+
+
+
+
